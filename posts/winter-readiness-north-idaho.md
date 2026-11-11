@@ -1,7 +1,7 @@
 ---
 title: "Winter Readiness for a Coeur d'Alene Assisted Living Home: Snow, Ice, Power Outages and Your Emergency Plan"
 description: "A practical winter checklist for North Idaho residential assisted living homes, built around the emergency preparedness requirements in IDAPA 16.03.22, section 155."
-date: 2026-11-16
+date: 2026-11-11
 image: /blog/images/winter-readiness-north-idaho.jpg
 imageAlt: "Staff and older adults gathered outside a care home entrance in the snow with a shovel, bottled water, a lantern and a red emergency kit"
 facebook: "Winter in North Idaho is a good reason to review your emergency plan before the first storm. Our new article offers a practical checklist for small assisted living homes in Coeur d'Alene, Post Falls and Sandpoint."
