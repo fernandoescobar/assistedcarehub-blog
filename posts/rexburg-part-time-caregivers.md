@@ -1,7 +1,7 @@
 ---
 title: "Rexburg Caregiver Jobs: Hiring and Training Part-Time Caregivers in a College Town"
 description: "How small Rexburg homes can hire, clear and train part-time caregivers under Idaho's assisted living rule, with a simple order of steps for every new hire."
-date: 2026-11-20
+date: 2026-11-17
 image: /blog/images/rexburg-part-time-caregivers.jpg
 imageAlt: "A group of caregivers in scrubs seated around a table while a trainer shows a blue transfer belt"
 facebook: "Part-time caregivers can be a real strength for a small home, provided background checks, orientation and medication training are done in the right order. Our new article walks Rexburg homes through the steps Idaho's rule sets out."
